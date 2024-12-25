@@ -8,4 +8,4 @@
 ## Certificate
 You can find the course completion certificate below:
 
-![Certificate](./certificate/2024%20Core%20JAVA%20Bootcamp%20From%20Zero%20to%20Hero.jpg)
+![Certificate](./Certificate/2024%20Core%20JAVA%20Bootcamp%20From%20Zero%20to%20Hero.jpg)
